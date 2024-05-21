@@ -1,0 +1,6 @@
+flask
+requests
+pyjwt
+flask-cors
+uvicorn
+fastapi

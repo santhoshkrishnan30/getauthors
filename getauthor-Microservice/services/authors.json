@@ -1,0 +1,14 @@
+{
+  "authors": [
+    {"name": "Author 1", "nationality": "Country 1", "genre": "Fiction"},
+    {"name": "Author 2", "nationality": "Country 2", "genre": "Non-fiction"},
+    {"name": "Author 3", "nationality": "Country 3", "genre": "Thriller"},
+    {"name": "Author 4", "nationality": "Country 4", "genre": "Sci-fi"},
+    {"name": "Author 5", "nationality": "Country 5", "genre": "Mystery"},
+    {"name": "Author 6", "nationality": "Country 6", "genre": "Romance"},
+    {"name": "Author 7", "nationality": "Country 7", "genre": "Historical Fiction"},
+    {"name": "Author 8", "nationality": "Country 8", "genre": "Biography"},
+    {"name": "Author 9", "nationality": "Country 9", "genre": "Fantasy"},
+    {"name": "Author 10", "nationality": "Country 10", "genre": "Self-help"}
+  ]
+}
